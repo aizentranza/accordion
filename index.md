@@ -1,7 +1,7 @@
 ---
 layout: page
 title: aizentranza.github.io
-permalink: /
+permalink: /..
 ---
 
 # Accordion Sheet Music
