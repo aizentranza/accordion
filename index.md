@@ -4,7 +4,7 @@ title: Accordion
 permalink: /
 ---
 
-[aizentranza.github.io](https://aizentranza.github.io/)
+[Home](https://aizentranza.github.io)
 
 # Accordion Sheet Music
 
